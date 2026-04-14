@@ -1,6 +1,6 @@
 My First Project Demo
 
-My first project
+My react-python project
 <br>
 Author - Satyendra
 
